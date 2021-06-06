@@ -71,4 +71,4 @@ test/__init__.py
 .secrets.baseline
 
 .openapi-generator-ignore
-.openapi-generator/
+.openapi-generator/root_key
